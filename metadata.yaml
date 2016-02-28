@@ -1,0 +1,29 @@
+_repo: Diana-of-the-Crossways-Volume-1_4465
+creator:
+  author:
+    agent_name: Meredith, George
+    birthdate: 1828
+    deathdate: 1909
+    gutenberg_agent_id: '520'
+    url: http://www.gutenberg.org/2009/agents/520
+    wikipedia: http://en.wikipedia.org/wiki/George_Meredith
+description: ''
+gutenberg_issued: '2003-09-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '4465'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PR'
+- !lcsh 'Married women -- Fiction'
+- !lcsh 'Scandals -- Fiction'
+- !lcsh 'Great Britain -- Fiction'
+- !lcsh 'Politicians -- Fiction'
+- !lcsh 'Political fiction'
+- !lcsh 'Separated people -- Fiction'
+- !lcsh 'Psychological fiction'
+title: Diana of the Crossways — Volume 1
+url: http://www.gutenberg.org/ebooks/4465
